@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Background Circle -->
+    <path
+        android:fillColor="#1A237E"
+        android:pathData="M54,54m-48,0a48,48 0,1 1,96 0a48,48 0,1 1,-96 0"/>
+    
+    <!-- Number 7 -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M40,30L68,30L68,34L48,34L48,78L44,78L40,30Z"/>
+    
+    <!-- Minute Text -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M30,50L32,50L32,52L30,52L30,50ZM34,50L36,50L36,52L34,52L34,50ZM38,50L40,50L40,52L38,52L38,50ZM42,50L44,50L44,52L42,52L42,50ZM46,50L48,50L48,52L46,52L46,50ZM50,50L52,50L52,52L50,52L50,50ZM54,50L56,50L56,52L54,52L54,50ZM58,50L60,50L60,52L58,52L58,50ZM62,50L64,50L64,52L62,52L62,50ZM66,50L68,50L68,52L66,52L66,50ZM70,50L72,50L72,52L70,52L70,50ZM74,50L76,50L76,52L74,52L74,50ZM78,50L80,50L80,52L78,52L78,50Z"/>
+    
+    <!-- Workout Symbol (Dumbbell) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M30,60L32,60L32,70L30,70L30,60ZM34,62L36,62L36,68L34,68L34,62ZM38,60L40,60L40,70L38,70L38,60ZM42,62L44,62L44,68L42,68L42,62ZM46,60L48,60L48,70L46,70L46,60ZM50,62L52,62L52,68L50,68L50,62ZM54,60L56,60L56,70L54,70L54,60ZM58,62L60,62L60,68L58,68L58,62ZM62,60L64,60L64,70L62,70L62,60ZM66,62L68,62L68,68L66,68L66,62ZM70,60L72,60L72,70L70,70L70,60ZM74,62L76,62L76,68L74,68L74,62ZM78,60L80,60L80,70L78,70L78,60Z"/>
+</vector> 
