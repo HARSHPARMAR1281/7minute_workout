@@ -67,10 +67,3 @@ python download_images.py
 4. Push to the branch
 5. Create a Pull Request
 
-## License
-
-[Add your license information here]
-
-## Contact
-
-[Add your contact information here] 
